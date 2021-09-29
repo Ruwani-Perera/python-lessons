@@ -1,4 +1,5 @@
 course = " python programming "
+
 # convert to upper case
 print(course.upper())
 
